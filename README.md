@@ -1,13 +1,13 @@
 # CATATAN
 
-Script Ori By FahriXz!
+Script Ori By FahriXz
 Dilarang Memperjual belikan script ini gratis untuk semua orang jika di jual neraka terbuka lebar untuk mu
 
 <p align="center">
 
 <a href="https://github.com/fahrixz"><img title="Author" src="https://img.shields.io/badge/Fahri-XzCruel-blue.svg?style=for-the-badge&logo=github"></a>
 
-Best Regards. Hisoka
+Best Regards. Fahri
 
 # FzCruel-MultiDevice
 Script WhatsApp Bot Multi Device
