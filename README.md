@@ -1,4 +1,7 @@
-# CATATAN ( NOTE )
+# CATATAN
+
+Script Ori By FahriXz!
+Dilarang Memperjual belikan script ini gratis untuk semua orang jika di jual neraka terbuka lebar untuk mu
 
 <p align="center">
 
@@ -6,24 +9,15 @@
 
 Best Regards. Hisoka
 
-# Hisoka-Morou
+# FzCruel-MultiDevice
 Script WhatsApp Bot Multi Device
 
-## NOTE
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
-
-<p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-<h1 align="center">Hisoka-Morou</h1>
-
-This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
+* New script to replace this script [`look here`](https://github.com/fahrixz/FzCruel-MultiDevice) (`Support Legacy or Baileys`)
+* WhatsApp Bot normal [`fahrixz/FzCruel-MultiDevice`](https://github.com/fahrixz/FzCruel-MultiDevice)
+* WhatsApp Bot Multi Device [`fahrixz/FzCruel-MultiDevice`](https://github.com/fahrixz/FzCruel-MultiDevice)
+* WhatsApp Bot Using Library whatsapp-web.js [`fzcruel-waweb.js`](https://github.com/fahrixz/fzcruel-waweb.js)
 
 ## HEROKU BUILDPACK
 ```bash
@@ -41,8 +35,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 ```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
+git clone https://github.com/fahrixz/FzCruel-MultiDevice
+cd FzCruel-MultiDevice
 npm install
 ```
 
@@ -63,8 +57,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
+git clone https://github.com/fahrixz/FzCruel-MultiDevice
+cd FzCruel-MultiDevice
 npm install
 ```
 
@@ -84,7 +78,7 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/fahrixz/FzCruel-MultiDevice/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 
 
@@ -108,5 +102,5 @@ Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+* [`Instagram`](https://instagram.com/fahri.xz_)
+* [`Saweria`](https://saweria.co/FahriXz)
